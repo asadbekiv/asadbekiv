@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asadbek Ibodullayev</h1>
-<h3 align="center">Currently,I am learning Backend development (NodeJS).</h3>
 
-- 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **ibodullaev.asadbek@mail.ru**
 
