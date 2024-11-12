@@ -1,6 +1,6 @@
 
 
-- 📫 How to reach me **ibodullaev.asadbek@mail.ru**
+- 📫 How to reach me **asadbek.tech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
